@@ -1,5 +1,5 @@
-# Data-Works
-Mini project done in the process of learning Data Analysis
+# Visualization for Nigeria Covid-19 Data
+Mini project done in the process of learning Data Analysis.
 Covid-19 data for Nigeria
 
 This is a live data from the Nigerian center for disease control: https://covid19.ncdc.gov.ng/
